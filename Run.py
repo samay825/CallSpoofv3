@@ -18,7 +18,7 @@ import sys
 from time import sleep
 from getpass import getpass
 from colorama import Fore
-
+os.system('pip install progress')
 # -------------------Colors
 r = "\033[1;31m"
 g = "\033[1;32m"
