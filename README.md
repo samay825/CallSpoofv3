@@ -1,6 +1,6 @@
-<h1 align="center">Call Spoofer<br>
+<h1 align="center">Call Spooferv3<br>
 </h1>
-<img src="callspoof.png" alt="Paris" class="center">
+<img src="callspoofv3.png" alt="Paris" class="center">
 * `📱 💀`<br />
 * `A Call-Spoofer for termux  `
 
@@ -53,7 +53,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/CallSpoofv2
+git clone https://github.com/samay825/CallSpoofv3
 ```
 Go to the CallSpoofv2 directory
 ```bash
@@ -90,7 +90,6 @@ Apache 2.0 © Samay825
 
 ## Telegram Channel
 
-* `All updates of Team Sincryption will be posted here !`
+* `All updates of Team Sincryption will be posted here  >> https://t.me/TeamSincryption`
 
-<a href="https://t.me/TeamSincryption">
-         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
+
