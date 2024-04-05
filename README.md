@@ -55,9 +55,9 @@ Clone the repository
 ```bash
 git clone https://github.com/samay825/CallSpoofv3
 ```
-Go to the CallSpoofv2 directory
+Go to the CallSpoofv3 directory
 ```bash
-cd CallSpoofv2
+cd CallSpoofv3
 ```
 Run the script
 ```bash
