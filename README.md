@@ -75,7 +75,7 @@ t.me/TeamSincryption
 ## Features
 * `Call Spoofing Any number Except High Authorities`
 
-* `Indian Number Spoofer Very Cheap Rates`
+* `Any Country number Spoofer Very Cheap Rates`
 
 ## Note
 * `This Call Spoofer is to prank friends and for educational if you do any crime the developer is not responsible`
